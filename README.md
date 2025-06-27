@@ -57,7 +57,6 @@ If you want your systems to be *robust, scalable, and intelligent*, I’m the en
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sankalp142002&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sankalp142002&theme=radical&hide_border=true&layout=compact)
 
 ---
 
